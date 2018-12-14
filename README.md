@@ -15,7 +15,18 @@
 
 #### The dataset is downloaded from https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf with the original source on Github
 
-#### References:https://stackoverflow.com/;https://www.w3schools.com/python/default.asp;https://www.programiz.com/python-programming;https://www.geeksforgeeks.org/python-programming-language/;http://ipython.readthedocs.io/en/stable/interactive/magics.html
+#### References:
+
+>https://stackoverflow.com/;
+
+>https://www.w3schools.com/python/default.asp;
+
+>https://www.programiz.com/python-programming;
+
+>https://www.geeksforgeeks.org/python-programming-language/;
+
+>http://ipython.readthedocs.io/en/stable/interactive/magics.html
+
 
 *import statements for all of the packages that plan to use.*
 ```
